@@ -14,7 +14,7 @@
 ## Fill the DESCRIPTION ----
 ## Add meta data about your application
 golem::fill_desc(
-  pkg_name = "ShinyCICD", # The Name of the package containing the App
+  pkg_name = "ShinyCICD-X", # The Name of the package containing the App
   pkg_title = "A Minimal Package for Shiny CI/CD Pipelines", # The Title of the package containing the App
   pkg_description = "A minimal package for Shiny CI/CD pipelines.", # The Description of the package containing the App
   author_first_name = "Mirai", # Your First Name
